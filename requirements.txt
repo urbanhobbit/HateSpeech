@@ -1,0 +1,9 @@
+streamlit>=1.25.0
+torch>=2.0.0
+transformers>=4.30.0
+peft>=0.4.0
+nltk>=3.8.1
+emoji>=2.2.0
+regex>=2023.5.5
+emoji>=2.2.0
+urlextract>=1.8.0
