@@ -5,7 +5,7 @@ import re
 import pandas as pd
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from peft import PeftModel, PeftConfig
-from Preprocessor import preprocess
+from Preprocessor.preprocessor import preprocess
 from docx import Document
 
 # Cümle bölücü
