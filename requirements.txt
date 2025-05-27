@@ -6,3 +6,4 @@ emoji>=2.2.0
 urlextract>=1.8.0
 python-docx>=0.8.11
 pandas>=1.5.0
+matplotlib.pyplot
